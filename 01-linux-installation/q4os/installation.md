@@ -58,9 +58,9 @@ Used the installer's partitioning tool and selected **Erase Disk** to automatica
 
 | Field      | Value  |
 | ---------- | ------ |
-| Name       | torres |
-| Login Name | torres |
-| Hostname   | torres-virtualbox |
+| Name       | donn |
+| Login Name | donn |
+| Hostname   | donn-virtualbox |
 | Password   | . . .  |
 | Confirm Password | . . . |
 
