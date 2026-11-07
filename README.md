@@ -1,6 +1,6 @@
-# Linux Administration Lab
+# Linux Lab
 
-A hands-on lab that documents my Linux administration practice across multiple distributions and virtual machines: installing systems, setting up desktop environments, working on the command line, troubleshooting networks, and testing and hardening services.
+A hands-on lab that documents my Linux practice across multiple distributions and virtual machines: installing systems, setting up desktop environments, working on the command line, troubleshooting networks, and testing and hardening services.
 
 I built this alongside my university Linux coursework and organized it as a personal portfolio. Every section is written as a short, reproducible walkthrough: what I set out to do, the exact commands I ran, what happened, and the screenshots that prove it.
 
